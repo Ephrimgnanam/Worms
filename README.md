@@ -60,7 +60,7 @@ If you’re using this repo for training:
 - Do **not** deploy any samples to other's devices without **explicit permission**.
 - Respect **your local laws** and international cybersecurity norms.
 
-## ⭐️ Support The Lab
+## ⭐️ Support The Repo
 
 Star the repo if you find it useful.
 Pull requests and analysis contributions are always welcome.
