@@ -9,10 +9,10 @@ Welcome to my🪱**Worms Repo**, a collection of Worms gathered from public sour
 ## ⚠️ Disclaimer
 - This repository is intended **solely for ethical research and educational use**. The samples provided here must **not** be used in any unauthorized or malicious activities.  
 - The use of these samples in any way that violates the law or any platform’s Terms of Service is strictly forbidden.  
-- By using or accessing this repository, you agree to use the contents responsibly and legally.**
+- By using or accessing this repository, you agree to use the contents **responsibly, ethically and legally.**
 - Do **not** use the information herein to deploy or spread malware.
-- The author(s) are not responsible for misuse.
-- Always analyze malware in a safe, isolated environment (e.g., VMs with no internet access).
+- The author(s) **of this repo** are not responsible for any misuse.
+- Always analyze malware in a safe, isolated environment (e.g., Air-Gapped VMs).
 
 ```text
                            (o)(o)
@@ -47,17 +47,17 @@ Big thanks to:
 
 Each Worms in this archive includes:
 
-- **Source Code** (if available)
-- **Technical Overview(if available)**
-- **Indicators of Compromise (IoCs)(if available)**
-- **Behavior Analysis Summary(if available)**
+- **Source Code (if available)**.
+- **Technical Overview(if available)**.
+- **Indicators of Compromise (IoCs)(if available)**.
+- **Behavior Analysis Summary(if available)**.
 
 ## 🔐 Stay Legal & Ethical
 
 If you’re using this repo for training:
 
 - Always test in a **controlled, isolated lab environment**.
-- Do **not** deploy any samples to other's devices without **explicit permission**.
+- Do **not** deploy any samples.
 - Respect **your local laws** and international cybersecurity norms.
 
 ## ⭐️ Support The Repo
