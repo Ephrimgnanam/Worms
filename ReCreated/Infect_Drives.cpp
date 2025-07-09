@@ -61,7 +61,7 @@ void InfectDrives(const std::vector<TargetDriveType>& targets) {
 }
 
 int main() {
-    std::wcout << L"=== USB INFECTOR SIMULATION ===\n";
+    std::wcout << L"=== USB INFECTOR ===\n";
 
     std::vector<TargetDriveType> targets = {
         TARGET_REMOVABLE,
